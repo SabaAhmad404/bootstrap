@@ -10,3 +10,7 @@
     width: 40px;
     height: 40px;
 }
+
+#background {
+    background-image: url(/media/Img\ Plahold.png);
+}
