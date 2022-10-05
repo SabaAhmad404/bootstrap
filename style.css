@@ -1,0 +1,16 @@
+#headline {
+    background-image: url(./media/bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+#scroll-btn {
+    width: 40px;
+    height: 40px;
+}
+
+#background {
+    background-image: url(/media/Img\ Plahold.png);
+}
